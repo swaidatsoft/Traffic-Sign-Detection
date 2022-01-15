@@ -1,0 +1,20 @@
+
+To run the program , please follow the  steps :
+
+1- Install the dataset on your local machine to let the program read it .
+Datasets link :(https://sid.erda.dk/public/archives/ff17dc924eba88d5d01a807357d6614c/published-archive.html).
+
+2- change your dataset location in the algorithem.
+
+3- if you want to detect and recognition Run file "new code -detect-4TS".
+
+4- if you want to test the system by your image then Run File "predict".
+
+5- please finde the report to know more.
+
+
+Please note that : there is two file as Demo file (MP4) if you want to know more .
+ 
+
+
+
